@@ -337,13 +337,6 @@ streamlit run app.py
 * Portfolio optimization
 * Live trading API integration
 
----
-
-## 💬 Interview Golden Answer
-
-> “I built a complete ML pipeline including feature engineering, model comparison, and threshold optimization. I tuned both target threshold (0.004) and prediction probability (0.38), which improved balanced accuracy and confusion matrix performance, and deployed it using Streamlit.”
-
----
 
 ## ⭐ Final Note
 
