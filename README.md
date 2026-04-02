@@ -13,7 +13,6 @@ This project covers the **complete ML lifecycle**:
 * 📉 Evaluation (Confusion Matrix)
 * 🖥️ Deployment using Streamlit
 
-⚠️ **Disclaimer:** This project is for educational purposes only and not financial advice.
 
 ---
 
