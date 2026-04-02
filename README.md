@@ -309,19 +309,6 @@ streamlit run app.py
 
 ---
 
-## 🎯 Key Highlights (Interview Points)
-
-* End-to-end ML pipeline
-* Real-time data integration
-* Advanced feature engineering
-* Model comparison & selection
-* **Threshold tuning (0.004 & 0.38)** 🔥
-* Confusion matrix optimization
-* Explainable ML
-* Production-style UI
-
----
-
 ## ⚠️ Limitations
 
 * No news/sentiment analysis
