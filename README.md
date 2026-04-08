@@ -1,8 +1,8 @@
-# 📈 StockSense Pro – AI Stock Trend Dashboard
+# 📈 Stock – AI Stock Trend Prediction
 
 ## 🚀 Overview
 
-StockSense Pro is an end-to-end Machine Learning + FinTech dashboard that predicts short-term stock price direction and generates actionable trading signals (BUY / SELL / HOLD).
+Stock prediction is an end-to-end Machine Learning + FinTech dashboard that predicts short-term stock price direction and generates actionable trading signals (BUY / SELL / HOLD).
 
 This project covers the **complete ML lifecycle**:
 
